@@ -25,3 +25,10 @@ shorts = {
   "colors_available" => ['khaki', 'black', 'deep purple', 'white']
   "cost" => '$15'
 }
+
+architect = {
+  "specialties" => ['buildings', 'landscpaes', 'naval and ship design', 'technologist']
+  "salaries" => ['$90K', '$140K']
+  "education_required" => ['BA']
+  "firms_in_colorado" => ['Denver firm of fancy architects', 'Cool cats architects', 'Boulder busy architects', 'those architecture guys and gals'; 'badass colorado architects']
+}
