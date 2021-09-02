@@ -19,3 +19,9 @@ animal = {
   "is_calm" => 'false'
   "personality" => ['weird', 'sweet']
 }
+shorts = {
+  "type" => 'unisex'
+  "length" => '7 inches'
+  "colors_available" => ['khaki', 'black', 'deep purple', 'white']
+  "cost" => '$15'
+}
